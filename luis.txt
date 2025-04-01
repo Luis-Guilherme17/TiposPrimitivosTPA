@@ -1,0 +1,55 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package com.mycompany.tiposprimitivos;
+
+/**Primeiro Programa em Java feito no laboratorio 111/**
+ *
+ * @author FATEC ZONA LESTE
+ */
+public class TiposPrimitivos {
+    public static void main(String[] args) {
+    
+//Declaração de variáveis primitivas
+byte idade = 25; // Armazena  números pequenos
+short ano = 2025; // Armazena valores um pouco maiores 
+int populacaoCidade = 500000; // Tipo mais comum para numeros inteiros
+long populacaoMundial = 8000000000L; // utiliza o L para representar numeros longos
+
+float altura = 1.75f; // necessaio f no final para indicar float
+double peso = 72.5; // mais preciso que o float
+
+char inicial = 'J'; // armazena um unico caracter
+boolean ativo = true; // armazena verdadeiro ou falso
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package com.mycompany.tiposprimitivos;
+
+/**Primeiro Programa em Java feito no laboratorio 111/**
+ *
+ * @author FATEC ZONA LESTE
+ */
+public class TiposPrimitivos {
+    public static void main(String[] args) {
+    
+//Declaração de variáveis primitivas
+byte idade = 25; // Armazena  números pequenos
+short ano = 2025; // Armazena valores um pouco maiores 
+int populacaoCidade = 500000; // Tipo mais comum para numeros inteiros
+long populacaoMundial = 8000000000L; // utiliza o L para representar numeros longos
+
+float altura = 1.75f; // necessa
+// Exibição dos valores
+System.out.printin(*Idade: " + idade);
+System.out.printin(*Ano: " + ano);
+System.out.printin(*População da cidade: " + pupolacaoCidade);
+System.out.printin(*População Mundial: " + populacaoMundial);
+System.out.printin(*Altura: " + a,altua + "m");
+System.out.printin(*Peso: " + peso + "kg");
+System.out.printin(*Inicial do nome: " + inicial);
+System.out.printin(*Está ativo?: " + ativo);
+        }
+}
